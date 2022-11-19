@@ -45,8 +45,8 @@ global.botname = '[⫹⫺ - ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️]' //ubah ja
 global.footer = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882110909971']
-global.premium = ['62882110909971']
+global.owner = ['6285882427631']
+global.premium = ['62882427631']
 global.packname = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ϟ'
 global.ownerr = ['ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️']
 global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
